@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crypto-coin-api/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/crypto-coin-api/static/js/main.a5bd9d50.chunk.js",
+    "main.js.map": "/crypto-coin-api/static/js/main.a5bd9d50.chunk.js.map",
+    "runtime-main.js": "/crypto-coin-api/static/js/runtime-main.01f77ec1.js",
+    "runtime-main.js.map": "/crypto-coin-api/static/js/runtime-main.01f77ec1.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/crypto-coin-api/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1d45fff0.chunk.js": "/crypto-coin-api/static/js/2.1d45fff0.chunk.js",
+    "static/js/2.1d45fff0.chunk.js.map": "/crypto-coin-api/static/js/2.1d45fff0.chunk.js.map",
+    "static/js/3.86f1a6a8.chunk.js": "/crypto-coin-api/static/js/3.86f1a6a8.chunk.js",
+    "static/js/3.86f1a6a8.chunk.js.map": "/crypto-coin-api/static/js/3.86f1a6a8.chunk.js.map",
+    "index.html": "/crypto-coin-api/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/crypto-coin-api/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/crypto-coin-api/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1d45fff0.chunk.js.LICENSE.txt": "/crypto-coin-api/static/js/2.1d45fff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f77ec1.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1d45fff0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a5bd9d50.chunk.js"
+  ]
+}
