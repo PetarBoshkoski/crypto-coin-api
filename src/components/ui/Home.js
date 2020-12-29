@@ -28,7 +28,7 @@ const Home = (props) => {
           <Card.Img
             variant="top"
             src={props.logo}
-            style={{ width: "50%", margin: "0 auto", marginTop: "10px"}}
+            style={{ width: 100, height: 100, margin: "0 auto", marginTop: "10px"}}
           />
           
             <Card.Title
